@@ -7,3 +7,4 @@ Je change sur le main.
 Let's add some text to see what does making a pull request do ?
 Commit 1
 Commit 2
+Commit 3
