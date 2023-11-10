@@ -5,6 +5,12 @@ On test notre premier pull.
 Add something to the new branch.
 Je change sur le main.
 Let's add some text to see what does making a pull request do ?
+Je teste d'ajouter un truc a feature 1.
+Feature 1
+Feature 2
+Feature 3
+Feature 4
+Feature 5
 Commit 1
 Commit 2
 Commit 3
