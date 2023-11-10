@@ -4,3 +4,4 @@ Encore un commit !
 On test notre premier pull.
 Add something to the new branch.
 Je change sur le main.
+Let's add some text to see what does making a pull request do ?
