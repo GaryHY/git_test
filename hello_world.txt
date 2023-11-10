@@ -8,3 +8,4 @@ Let's add some text to see what does making a pull request do ?
 Je teste d'ajouter un truc a feature 1.
 Feature 1
 Feature 2
+Feature 3
